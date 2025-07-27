@@ -40,11 +40,5 @@ I'm an aspiring software developer and tech enthusiast, passionate about Artific
 
 ---
 
-## 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
-
----
-
 > *“Small steps lead to big achievements – I believe in learning by building!”*
 
